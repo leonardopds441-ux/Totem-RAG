@@ -1,0 +1,78 @@
+{
+  "FLX-001": {
+    "name": "Zoológico de Demonstração",
+    "business_type": "zoologico_com_centro_comercial",
+    "description": "Base pública demonstrativa com informações sobre atrações, lojas, alimentação, serviços e atendimento.",
+    "location": {
+      "address": "Endereço fictício, 123 - Cidade/UF",
+      "reference": "Próximo à entrada principal"
+    },
+    "hours": {
+      "monday_to_saturday": "10:00 às 17:00",
+      "sunday": "12:00 às 18:00",
+      "holidays": "Consultar programação oficial antes da visita."
+    },
+    "contacts": {
+      "phone": "(11) 0000-0000",
+      "email": "atendimento@example.com",
+      "site": "https://example.com"
+    },
+    "services": [
+      {
+        "name": "Banheiros principais",
+        "category": "banheiro",
+        "zone": "praça de alimentação",
+        "reference": "Ficam no térreo, próximos à praça de alimentação.",
+        "tags": [
+          "banheiro",
+          "toalete",
+          "wc"
+        ]
+      },
+      {
+        "name": "Praça de alimentação",
+        "category": "alimentação",
+        "zone": "área central",
+        "reference": "Área central do percurso, próxima aos banheiros principais.",
+        "tags": [
+          "comida",
+          "lanche",
+          "refeição"
+        ]
+      },
+      {
+        "name": "Loja de lembranças",
+        "category": "loja",
+        "zone": "saída",
+        "reference": "Localizada próxima à saída do percurso.",
+        "tags": [
+          "loja",
+          "souvenir",
+          "presente"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Onde posso comer?",
+        "answer": "Você pode comer na praça de alimentação, que fica na área central do percurso, próxima aos banheiros principais."
+      },
+      {
+        "question": "Onde comprar salgado?",
+        "answer": "Procure a praça de alimentação. Ela reúne opções de lanches, café, sorvete e refeições rápidas."
+      },
+      {
+        "question": "Onde ficam os pinguins?",
+        "answer": "A área dos pinguins fica próxima à loja temática."
+      },
+      {
+        "question": "Qual o horário de funcionamento?",
+        "answer": "O funcionamento informado nesta base é de segunda a sábado das 10:00 às 17:00 e domingo das 12:00 às 18:00."
+      }
+    ],
+    "policies": [
+      "Horários e atrações podem sofrer alteração operacional.",
+      "Informações não encontradas na base local devem ser confirmadas com a equipe ou no site oficial."
+    ]
+  }
+}
