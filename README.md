@@ -76,7 +76,13 @@ http://localhost:8000/rag-test/FLX-001
 
 Perguntas sugeridas:
 
+- Como posso entrar em contato com o zoológico?
 - Onde posso comer algo no local?
 - Onde ficam os pinguins?
 - Qual o horário de funcionamento?
 - Onde ficam os banheiros?
+- Se eu estiver com fome, para onde devo ir?
+- O que tem perto da saída do zoológico?
+- Existe algum lugar para comprar lembranças?
+- Onde posso encontrar refeições rápidas?
+- O zoológico oferece estrutura básica para visitantes?
