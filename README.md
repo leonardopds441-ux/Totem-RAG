@@ -76,3 +76,73 @@ http://localhost:8000/rag-test/FLX-001
 
 Perguntas sugeridas:
 
+Pergunta 1
+
+Qual é o endereço completo do zoológico
+
+Resposta
+O endereço é Av. Miguel Estéfano, 4241 - Água Funda - São Paulo/SP
+
+Pergunta 2
+
+Qual é o horário de funcionamento aos domingos
+
+Resposta
+Aos domingos o zoológico funciona das 9:00 às 17:00
+
+Pergunta 3
+
+Existe alguma referência de localização próxima ao zoológico
+
+Resposta
+O zoológico está localizado na região da Água Funda em São Paulo, sendo uma área conhecida e de fácil acesso
+
+Pergunta 4
+
+Que tipos de estabelecimentos comerciais existem dentro do zoológico
+
+Resposta
+O zoológico possui lojas e praça de alimentação disponíveis para os visitantes
+
+Pergunta 5
+
+Quais serviços estão disponíveis para atendimento ao visitante
+
+Resposta
+O zoológico oferece atendimento ao visitante, informações, alimentação e lojas
+
+Pergunta 6
+
+O zoológico possui infraestrutura para alimentação e descanso
+
+Resposta
+Sim, o zoológico possui praça de alimentação para atender os visitantes durante a visita
+
+Pergunta 7
+
+Se eu visitar no sábado, que horário posso entrar
+
+Resposta
+De terça a domingo o zoológico funciona das 9:00 às 17:00
+
+Pergunta 8
+
+Quais informações o zoológico fornece para orientar os visitantes
+
+Resposta
+O zoológico fornece informações sobre funcionamento, localização e serviços disponíveis
+
+Pergunta 9
+
+O local possui estrutura completa para receber o público
+
+Resposta
+Sim, o zoológico possui estrutura com atrações, alimentação, lojas e atendimento ao visitante
+
+Pergunta 10
+
+Quais são as principais facilidades disponíveis no zoológico
+
+Resposta
+As principais facilidades incluem atrações, praça de alimentação, lojas e serviços de atendimento
+
