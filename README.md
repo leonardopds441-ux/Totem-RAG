@@ -74,75 +74,74 @@ uvicorn app.main:app --host 0.0.0.0 --port 8000
 http://localhost:8000/rag-test/FLX-001
 ```
 
-Perguntas sugeridas:
-
 Pergunta 1
 
-Qual é o endereço completo do zoológico
+Qual é o endereço completo do zoológico?
 
-Resposta
-O endereço é Av. Miguel Estéfano, 4241 - Água Funda - São Paulo/SP
+Resposta:
+O endereço completo do zoológico é Av. Miguel Estéfano, 4241 - Água Funda - São Paulo/SP.
 
 Pergunta 2
 
-Qual é o horário de funcionamento aos domingos
+Qual é o horário de funcionamento aos domingos?
 
-Resposta
-Aos domingos o zoológico funciona das 9:00 às 17:00
+Resposta:
+Aos domingos, o zoológico funciona das 12:00 às 18:00.
 
 Pergunta 3
 
-Existe alguma referência de localização próxima ao zoológico
+Que lojas e estabelecimentos comerciais existem dentro do zoológico?
 
-Resposta
-O zoológico está localizado na região da Água Funda em São Paulo, sendo uma área conhecida e de fácil acesso
+Resposta:
+Dentro do zoológico existem Lembrancinhas & Cia, Loja do Pinguim e Praça de Alimentação.
 
 Pergunta 4
 
-Que tipos de estabelecimentos comerciais existem dentro do zoológico
+Qual é o telefone do zoológico?
 
-Resposta
-O zoológico possui lojas e praça de alimentação disponíveis para os visitantes
+Resposta:
+O telefone de contato do zoológico é (11) 5073-0811.
 
 Pergunta 5
 
-Quais serviços estão disponíveis para atendimento ao visitante
+Qual é o email de contato do zoológico?
 
-Resposta
-O zoológico oferece atendimento ao visitante, informações, alimentação e lojas
+Resposta:
+O email de atendimento do zoológico é atendimento@zoologico.com.br
+.
 
 Pergunta 6
 
-O zoológico possui infraestrutura para alimentação e descanso
+Qual é o site oficial do zoológico?
 
-Resposta
-Sim, o zoológico possui praça de alimentação para atender os visitantes durante a visita
+Resposta:
+O site oficial do zoológico é https://zoologico.com.br
+.
 
 Pergunta 7
 
-Se eu visitar no sábado, que horário posso entrar
+Qual é o horário de funcionamento de segunda a sábado?
 
-Resposta
-De terça a domingo o zoológico funciona das 9:00 às 17:00
+Resposta:
+De segunda a sábado, o zoológico funciona das 10:00 às 17:00.
 
 Pergunta 8
 
-Quais informações o zoológico fornece para orientar os visitantes
+Onde fica a Praça de Alimentação?
 
-Resposta
-O zoológico fornece informações sobre funcionamento, localização e serviços disponíveis
+Resposta:
+A Praça de Alimentação fica na área central do percurso, próxima aos banheiros principais.
 
 Pergunta 9
 
-O local possui estrutura completa para receber o público
+Onde fica a Loja do Pinguim?
 
-Resposta
-Sim, o zoológico possui estrutura com atrações, alimentação, lojas e atendimento ao visitante
+Resposta:
+A Loja do Pinguim fica na área temática dos pinguins, próxima à atração dos pinguins.
 
 Pergunta 10
 
-Quais são as principais facilidades disponíveis no zoológico
+Quais serviços estão disponíveis no zoológico?
 
-Resposta
-As principais facilidades incluem atrações, praça de alimentação, lojas e serviços de atendimento
-
+Resposta:
+Os serviços disponíveis incluem banheiros principais, fraldário e ponto de informações.
