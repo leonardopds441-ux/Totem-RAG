@@ -100,7 +100,7 @@ Pergunta 4
 Qual é o telefone do zoológico?
 
 Resposta:
-O telefone de contato do zoológico é (11) 5073-0811.
+O telefone de contato do zoológico é (11) 4934-6804.
 
 Pergunta 5
 
