@@ -93,7 +93,7 @@ Pergunta 3
 Que lojas e estabelecimentos comerciais existem dentro do zoológico?
 
 Resposta:
-Dentro do zoológico existem Lembrancinhas & Cia, Loja do Pinguim e Praça de Alimentação.
+Dentro do zoológico existem Lembrancinhas & Cia e Praça de Alimentação.
 
 Pergunta 4
 
